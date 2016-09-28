@@ -1,5 +1,5 @@
 /*Assignment 3 - prolog
- * Krishna Bakka and Kranthi Kumar paladugu
+ * Krishna Bakka 
  */
 
 
